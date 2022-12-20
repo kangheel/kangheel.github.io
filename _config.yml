@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kanghee Lee / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kanghee Lee"
 description              : &description "personal description"
