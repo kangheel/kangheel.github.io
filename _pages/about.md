@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kanghee Lee, an second year undergraduate student pursuing a double major in Computation and Applied Mathematics and Computer Sceience at the University of Chicago.
+I am Kanghee Lee, an third year undergraduate student pursuing a double major in Computation and Applied Mathematics and Computer Sceience at the University of Chicago.
 
 # Academic Interests
 My primary interest in computer science is about computer security, more specifically cryptography.
