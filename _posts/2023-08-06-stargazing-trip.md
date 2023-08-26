@@ -7,3 +7,4 @@ tags:
 ---
 
 ![picture_of_star_1](../images/IMG_5224.jpg)  
+![picture_of_star_1](../images/IMG_5230.jpg)  
