@@ -7,6 +7,8 @@ tags:
 ---
 
 
-| <img src="../images/IMG_5224.jpg" alt="picture_of_star_1" width="400"/> | <img src="../images/IMG_5230.jpg" alt="picture_of_star_2" width="400"/> |
+| <img src="../images/IMG_5224.jpg" alt="picture_of_big_dipper" width="400"/> | <img src="../images/IMG_5230.jpg" alt="picture_of_stars" width="400"/> |
 | ---------- | --------- |
 | Picture of Big Dipper | Picture of more stars |
+
+This August, I visited [Joshua Tree National Park](https://www.nps.gov/jotr/index.htm) on a 2 day trip to go stargazing. The pictures above are some of the few pictures that I ended up taking.
