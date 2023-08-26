@@ -6,5 +6,6 @@ tags:
   - stargazing
 ---
 
-![picture_of_star_1](../images/IMG_5224.jpg)  
-![picture_of_star_1](../images/IMG_5230.jpg)  
+
+<img src="../images/IMG_5224.jpg" alt="picture_of_star_1" width="400"/>
+<img src="../images/IMG_5230.jpg" alt="picture_of_star_2" width="400"/>
