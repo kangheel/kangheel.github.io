@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+# Welcome to a hidden part of my webpage used by me to debug/create the website.
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
