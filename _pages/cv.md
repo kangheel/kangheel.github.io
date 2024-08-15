@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Download link to my full resume:
-[Resume](https://github.com/kangheel/kangheel.github.io/blob/ba21af1b9103b744d0372879ca8be7792a5be259/files/kangheelee_resume_08_23_2023.pdf)
+[Resume](https://github.com/stella-etoile/stella-etoile.github.io/blob/master/files/stellalee_resume_05_02_2024.pdf)
 
 Education
 ======
